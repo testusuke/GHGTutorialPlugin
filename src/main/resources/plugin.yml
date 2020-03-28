@@ -1,0 +1,6 @@
+name: GHGTutorialPlugin
+version: @version@
+author: [testusuke]
+main: net.testusuke.ghgtutorialplugin.GHGTutorialPlugin
+commands:
+  ench:
